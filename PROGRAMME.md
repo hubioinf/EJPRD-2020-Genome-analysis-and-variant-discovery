@@ -4,13 +4,13 @@ In this hands-on practice we will introduce the Linux/Bash environment and basic
 
 Programme:
 
-15:00-15:45 BLAST - Ceren Sucularli
+15:00-15:45 BLAST
 
-15:45-16:45 Linux/Bash - Idil Yet
+15:45-16:45 Linux/Bash
 
 - 15 min break -
 
-17:00-17:30 Introduction to NGS & Data types - Can Kosukcu
+17:00-17:30 Introduction to NGS & Data types
 
-17:30-18:30 Read mapping and variant (SNP/Indel) discovery in whole genome sequence data - Gulsah Merve Kilinc
+17:30-18:30 Read mapping and variant (SNP/Indel) discovery in whole genome sequence data
 
