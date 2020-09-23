@@ -12,5 +12,5 @@ Programme:
 
 17:00-17:30 Introduction to NGS & Data types
 
-17:30-18:30 Read mapping and variant (SNP/Indel) genotyping in next generation sequencing data
+17:30-18:30 Read mapping and variant genotyping in next generation sequencing data
 
